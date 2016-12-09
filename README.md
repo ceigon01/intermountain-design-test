@@ -1,4 +1,4 @@
-Part I - Form creation and styling
+Form creation and styling
 
 Create a registration form that would be production-ready. The form should have the following fields:
 
