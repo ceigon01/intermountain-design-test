@@ -9,7 +9,9 @@ Email
 Short Bio (textarea with 1000 characters maximum)
 The form should be responsive and have two primary modes: browser and mobile. Use css to accomplish the responsive behavior.
 
-Wireframes are provided in the /wireframes directory (we're all about creative directory naming...). The dotted lines are meant to indicate alignment.
+Wireframes are provided as PDf's (we're all about creative directory naming...). The dotted lines are meant to indicate alignment.
+
+Please any images provided in the repository to leverage in your design.
 
 Place all of your HTML in the index.html and all your CSS inside styles.css. We have included normalize.css file (https://necolas.github.io/normalize.css/) in the css directory as well. This will help standardize css, but it is not required that you use it. Please do not use any other external css libraries (bootstrap, material UI, etc).
 
